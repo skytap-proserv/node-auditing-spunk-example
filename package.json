@@ -1,0 +1,16 @@
+{
+  "name": "reports",
+  "version": "1.0.0",
+  "description": "Audit reports automation",
+  "main": "index.js",
+  "dependencies": {
+    "node-skytap": "git+https://ralstonr@github.com/skytap-proserv/node-skytap.git",
+    "csvtojson": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rich Ralston (rralston@skytap.com)",
+  "license": "ISC"
+}
