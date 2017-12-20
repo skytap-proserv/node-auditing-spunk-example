@@ -2,16 +2,6 @@ Overview
 --------
 This repository contains an example of how to gather a Skytap Audit report using a modified version of the node.js Skytap REST API wrapper provided by FTI consulting and use the Splunk javascript SDK to log the audit report into Splunk using the HTTP collector
 
-Author
-------
-rralston@skytap.com - Rich Ralston
-
-Change Log
-----------
-| Version | Comment       | Author |
-|---------|---------------|--------|
-|0.1      |Initial version|RHR     |
-
 Usage
 -----
 
@@ -47,3 +37,13 @@ Reference
 The original node-skytap javascript wrapper can be found at [https://github.com/fti-technology/node-skytap]
 
 The updated version includes support for Skytap audit reports and is located at https://github.com/skytap-proserv/node-skytap
+
+Author
+------
+rralston@skytap.com - Rich Ralston
+
+Change Log
+----------
+| Version | Comment       | Author |
+|---------|---------------|--------|
+|1.0      |Initial version|RHR     |
