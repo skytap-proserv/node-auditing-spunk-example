@@ -25,6 +25,7 @@ var skytap = Skytap.init({
 })
 
 
+
 var poll_interval = 3000 // milliseconds
 var intervalId = 0;
 
