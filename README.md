@@ -24,9 +24,10 @@ You will need the Skytap API Security token from the admin account available her
 
 *NOTE: The package.json includes a reference to the modified npm package that is only visible to Skytap PS. If you want to use it outside that context you need to make a local copy and change the package.json to pull the module from the local repo.*
 
-Clone this code using ```
-git clone https://github.com/skytap-proserv/node-auditing-spunk-example.git
-```
+Clone this code using the command:
+
+`git clone https://github.com/skytap-proserv/node-auditing-spunk-example.git`
+
 Download the Splunk logging for javascript SDK http://dev.splunk.com/view/splunk-logging-javascript/SP-CAAAE6U
 and uncompress it at the top level directory
 
